@@ -38,7 +38,7 @@
 
 ## 📸 Screenshots
 
-![Gameplay](screenshots/game4.png)
+![Gameplay](screenshots/game3.png)
 *Intense 1v1 action with VFX effects*
 
 ![Power-ups](screenshots/game4.png)
