@@ -38,13 +38,13 @@
 
 ## 📸 Screenshots
 
-![Gameplay](screenshots/gameplay1.png)
+![Gameplay](screenshots/game4.png)
 *Intense 1v1 action with VFX effects*
 
-![Power-ups](screenshots/powerups.png)
+![Power-ups](screenshots/game4.png)
 *Strategic power-up collection*
 
-![Victory](screenshots/victory.png)
+![Victory](screenshots/Game5.png)
 *Victory screen with stats*
 
 ---
