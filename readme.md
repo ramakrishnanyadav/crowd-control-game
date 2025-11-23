@@ -211,7 +211,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [@ramakrishnanyadav](https://github.com/ramakrishnanyadav)
-- DevPost: [@ramakrishnayadav2004](https://devpost.com/ramakrishnayadav)
+- DevPost: [@ramakrishnayadav2004](https://devpost.com/ramakrishnayadav2004)
 - Email: ramakrishnanyadav2004.com
 
 ---
